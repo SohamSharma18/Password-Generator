@@ -1,6 +1,6 @@
 <h1>Password Generator App</h1>
 
-<p>Password Generator App written in HTML, CSS, and JavaScript .</p>
+<p>Password Generator App written in HTML, CSS, and JavaScript ().</p>
 
 ### Use of the Project:
 
